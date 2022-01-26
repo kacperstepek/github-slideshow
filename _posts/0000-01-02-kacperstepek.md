@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello, I'm Kacper!
+What is the sparrow's average speed?
 Use the left arrow to go back!
